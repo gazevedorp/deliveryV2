@@ -1,7 +1,7 @@
 import React from 'react'
 import useSWR from 'swr'
 
-export const baseUrl = "http://apidelivery.mbnarp.com.br"
+export const baseUrl = "https://apidelivery.mbnarp.com.br"
 
 export const getProducts = () => {
 
